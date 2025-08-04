@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityPhotoviewer.podspec"
+    "StlynxPhotoviewer.podspec"
   ],
   "author": "Jean Pierre Quéau",
   "license": "MIT",
