@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor-community/photoviewer",
-  "version": "7.0.0",
+  "name": "@stlynx/photoviewer",
+  "version": "1.0.0",
   "description": "PhotoViewer table images with fullscreen and sharing capabilities",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/photoviewer.git"
+    "url": "git+https://github.com/stlynx-3/photoviewer.git"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/photoviewer/issues"
+    "url": "https://github.com/stlynx-3/photoviewer/issues"
   },
   "keywords": [
     "capacitor",
